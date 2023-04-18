@@ -4,8 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chain Outlet Sales Performance Assessment - Practicum Final Project](https://github.com/anipetrichor/Practicum-Projects/blob/2fab330f9c742acf922132d0969f74549e063061/practicum_final_project.ipynb) |
+[Tableau Dashboad](https://public.tableau.com/app/profile/annabelle.petrichor/viz/final_project_dashboard_16789833577320/final_project_dashboard?publish=yes) |
+[Conclusions Presentation](https://drive.google.com/file/d/1m8PPZv8FPmfh4ypeJxvI3SU6TU5UbKec/view?usp=sharing)
+<img src="images/tableau_final_project.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
