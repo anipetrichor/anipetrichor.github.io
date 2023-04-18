@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Regional Video Trends Dashboard](https://public.tableau.com/views/practicum_automation_project/trending_vids_dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+<img src="images/tableau_video_trends.png?raw=true"/>
 
 ---
 
