@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Chain Outlet Sales Performance Assessment - Practicum Final Project](https://github.com/anipetrichor/Practicum-Projects/blob/2fab330f9c742acf922132d0969f74549e063061/practicum_final_project.ipynb) |
+[Retail Outlet Sales Performance Evaluation](https://github.com/anipetrichor/Practicum-Projects/blob/2fab330f9c742acf922132d0969f74549e063061/practicum_final_project.ipynb) |
 [Tableau Dashboard](https://public.tableau.com/app/profile/annabelle.petrichor/viz/final_project_dashboard_16789833577320/final_project_dashboard?publish=yes) |
 [Presentation](https://drive.google.com/file/d/1m8PPZv8FPmfh4ypeJxvI3SU6TU5UbKec/view?usp=sharing)
 <img src="images/tableau_final_project.png?raw=true"/>
